@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todo-react-crash-course-2019/static/css/main.9c645cde.chunk.css",
-    "main.js": "/todo-react-crash-course-2019/static/js/main.28bebd33.chunk.js",
-    "main.js.map": "/todo-react-crash-course-2019/static/js/main.28bebd33.chunk.js.map",
+    "main.js": "/todo-react-crash-course-2019/static/js/main.e1f73444.chunk.js",
+    "main.js.map": "/todo-react-crash-course-2019/static/js/main.e1f73444.chunk.js.map",
     "runtime~main.js": "/todo-react-crash-course-2019/static/js/runtime~main.37ae3711.js",
     "runtime~main.js.map": "/todo-react-crash-course-2019/static/js/runtime~main.37ae3711.js.map",
-    "static/js/2.92dbae0f.chunk.js": "/todo-react-crash-course-2019/static/js/2.92dbae0f.chunk.js",
-    "static/js/2.92dbae0f.chunk.js.map": "/todo-react-crash-course-2019/static/js/2.92dbae0f.chunk.js.map",
+    "static/js/2.f552c298.chunk.js": "/todo-react-crash-course-2019/static/js/2.f552c298.chunk.js",
+    "static/js/2.f552c298.chunk.js.map": "/todo-react-crash-course-2019/static/js/2.f552c298.chunk.js.map",
     "index.html": "/todo-react-crash-course-2019/index.html",
-    "precache-manifest.2356fe9de18acb41f46862a03048c801.js": "/todo-react-crash-course-2019/precache-manifest.2356fe9de18acb41f46862a03048c801.js",
+    "precache-manifest.d2344cf584edf91c92ca8492debe1b8a.js": "/todo-react-crash-course-2019/precache-manifest.d2344cf584edf91c92ca8492debe1b8a.js",
     "service-worker.js": "/todo-react-crash-course-2019/service-worker.js",
     "static/css/main.9c645cde.chunk.css.map": "/todo-react-crash-course-2019/static/css/main.9c645cde.chunk.css.map"
   }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5db5e2d431a36d9cae9c6a6c524bf1c9",
+    "revision": "c431f59342b2983fedb59bd6ed56fc50",
     "url": "/todo-react-crash-course-2019/index.html"
   },
   {
-    "revision": "1f9ffc398a477cab0234",
+    "revision": "503582f43f4b7e958a09",
     "url": "/todo-react-crash-course-2019/static/css/main.9c645cde.chunk.css"
   },
   {
-    "revision": "28be84e997f65e60f504",
-    "url": "/todo-react-crash-course-2019/static/js/2.92dbae0f.chunk.js"
+    "revision": "b951f94a8c5469ab5a67",
+    "url": "/todo-react-crash-course-2019/static/js/2.f552c298.chunk.js"
   },
   {
-    "revision": "1f9ffc398a477cab0234",
-    "url": "/todo-react-crash-course-2019/static/js/main.28bebd33.chunk.js"
+    "revision": "503582f43f4b7e958a09",
+    "url": "/todo-react-crash-course-2019/static/js/main.e1f73444.chunk.js"
   },
   {
     "revision": "d061af686af86b4a3988",
