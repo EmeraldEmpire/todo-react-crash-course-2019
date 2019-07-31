@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/todo-react-crash-course-2019/precache-manifest.43d0ab618f7f1302f19875e3402dff54.js"
+  "/todo-react-crash-course-2019/precache-manifest.2356fe9de18acb41f46862a03048c801.js"
 );
 
 self.addEventListener('message', (event) => {
